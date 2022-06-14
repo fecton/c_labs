@@ -1,0 +1,8 @@
+*.doc
+*.docx
+*.out
+*.bak
+*.odt
+*.exe
+.vscode
+*.vsdx
